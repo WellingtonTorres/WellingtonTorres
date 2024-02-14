@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Angular
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonTorres&hide=python,html&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)
 
 <!--
 **WellingtonTorres/WellingtonTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Todas as linguas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonTorres)](https://github.com/WellingtonTorres/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WellingtonTorres)](https://github.com/WellingtonTorres/github-readme-stats)
+ref: https://github.com/WellingtonTorres/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonTorres&hide=python,html)
 -->
