@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Angular
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonTorres&hide=python,c,html&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonTorres&hide=c,html&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)
 
 <!--
 **WellingtonTorres/WellingtonTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
